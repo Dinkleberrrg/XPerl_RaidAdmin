@@ -1,9 +1,9 @@
 # XPerl_RaidAdmin
 
-X-Perl-Modul: Raid-Verwaltung. Benoetigt das Repo XPerl (https://github.com/Dinkleberrrg/XPerl).
+X-Perl module: raid administration. Requires the XPerl repository (https://github.com/Dinkleberrrg/XPerl).
 
-Teil von X-Perl UnitFrames (Redbu11), aufgeteilt in ein Repo pro Addon-Ordner, damit der Octo-Launcher es per Git-URL installieren und aktualisieren kann.
+Part of X-Perl UnitFrames (Redbu11), split into one repository per addon folder so the Octo launcher can install and update it via git URL.
 
 - Original: https://github.com/Redbu11dev/X-Perl-UnitFrames
-- Gesamter Fork mit allen Modulen: https://github.com/Dinkleberrrg/X-Perl-UnitFrames (Branch `octowow`)
-- Installation: `https://github.com/Dinkleberrrg/XPerl_RaidAdmin` im Octo-Launcher als Custom-Git-Addon eintragen, oder den Ordner `XPerl_RaidAdmin` nach `Interface\AddOns` kopieren.
+- Full fork with all modules: https://github.com/Dinkleberrrg/X-Perl-UnitFrames (branch `octowow`)
+- Installation: add `https://github.com/Dinkleberrrg/XPerl_RaidAdmin` as a custom git addon in the Octo launcher, or copy the folder `XPerl_RaidAdmin` to `Interface\AddOns`.
